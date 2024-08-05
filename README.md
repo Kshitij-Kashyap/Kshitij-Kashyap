@@ -54,8 +54,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kshitij-Kashyap/Kshitij-Kashyap/output/snake.svg" alt="Snake animation" />
-
-###
